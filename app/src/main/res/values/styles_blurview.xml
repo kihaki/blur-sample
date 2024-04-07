@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- required by legacy BlurView (via composable Blurred) for API < 31 -->
+    <declare-styleable name="BlurView">
+        <attr name="blurRadius" format="float" />
+    </declare-styleable>
+</resources>
